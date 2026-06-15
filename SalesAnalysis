@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Electronics Sales Dashboard</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+        }
+        .header {
+            background: #1B2A4A;
+            color: white;
+            padding: 20px 40px;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        .header p {
+            margin: 8px 0 0;
+            font-size: 14px;
+            color: #B5D4F4;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 24px auto;
+            padding: 0 20px;
+        }
+        iframe {
+            width: 100%;
+            height: 600px;
+            border: none;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Electronics Sales Dashboard</h1>
+        <p>Power BI Report -- January 2026</p>
+    </div>
+    <div class="container">
+        <iframe
+          title="Electronics Sales Dashboard"
+          src="https://app.powerbi.com/view?r=eyJrIjoiODgwMjQwNDctMzljMy00NWMyLTk0YWYtMjRjNjNjYTUzODFiIiwidCI6IjlmZDJhOTkwLTUxMGUtNGY0OS1hYTAzLWY0ZjQxMzI4Zjg4NSIsImMiOjh9"
+          allowFullScreen="true">
+        </iframe>
+    </div>
+</body>
+</html>
