@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Karla Sousa # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  I’m a data analyst who enjoys translating messy, real-world data into clear stories that help people make better decisions.
   First description 
   <br><br>
-  Second description 
+  My work sits at the intersection of business understanding, analytical rigour, and visual storytelling, whether I’m building Power BI dashboards for stakeholders, analysing financial performance, or developing predictive models to improve ROI.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/karlapvdsousa/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
