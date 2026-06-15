@@ -17,8 +17,10 @@ Across all dashboards, I follow a consistent approach to ensure accuracy, scalab
 - Use of **interactive slicers, drill-downs, drill-throughs, and custom tooltips**
 - Design of dashboards with a focus on **clarity, usability, and business relevance**
 
-Sales Performance & Returns Dashboard(/sample_page)
+[Sales Performance & Returns Dashboard](/sample_page) - go to sample page
+-- see how to add power bi dash here.
 <https://app.powerbi.com/view?r=eyJrIjoiODgwMjQwNDctMzljMy00NWMyLTk0YWYtMjRjNjNjYTUzODFiIiwidCI6IjlmZDJhOTkwLTUxMGUtNGY0OS1hYTAzLWY0ZjQxMzI4Zjg4NSIsImMiOjh9>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
